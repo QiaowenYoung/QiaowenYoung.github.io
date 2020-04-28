@@ -5,6 +5,6 @@ Hi, this is Qiaowen Yang, an undergraduate of Fudan University, majoring in CS.
 * Languages：C/C++/Python/Java/JavaScript
 * Frames：WebGL/React/Django
 * Courses：computer system/database/graphics/networks/algorithm
-* Interest：graphics/system/computer vision<br>
+* Interest：graphics/system/computer vision
 ### CV
 [https://github.com/QiaowenYoung/QiaowenYoung.github.io/blob/master/_includes/about/QiaowenYang_CV.pdf](https://github.com/QiaowenYoung/QiaowenYoung.github.io/blob/master/_includes/about/QiaowenYang_CV.pdf)
