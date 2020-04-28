@@ -1,6 +1,6 @@
 > 拒绝内卷
 
-Hi，我是杨巧文，复旦大学cs在读大三学生。<br>
+Hi，我是杨巧文，复旦大学cs在读大三学生。
 ### 技术栈
 * 语言：C/C++/Python/Java/JavaScript
 * 框架：WebGL/React/Django
