@@ -9,6 +9,16 @@ catalog: true
 tags:
     - graphics
     - review
+<script type="text/x-mathjax-config">
+MathJax.Hub.Config({
+tex2jax: {
+  inlineMath: [['$','$'], ['\\(','\\)']],
+  processEscapes: true
+  }
+});
+</script>
+<!--latex数学显示公式-->
+<script type="text/javascript" src="https://cdn.mathjax.org/mathjax/latest/MathJax.js?config=TeX-AMS-MML_HTMLorMML"></script>
 ---
 
 > “加油阿考”
@@ -36,7 +46,7 @@ tags:
 
   specular: identifies the bright specular highlights that occur when light hits an object surface and reflects back toward the camera
 
-* **flat shading, gouraud shading and phong shading **
+* **flat shading, gouraud shading and phong shading**
 
   flat: all of the polygons reflect as a flat surface, giving a blocky look and feel to a model
 
