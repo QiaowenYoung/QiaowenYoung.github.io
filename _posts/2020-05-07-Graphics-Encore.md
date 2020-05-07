@@ -1,14 +1,3 @@
-<head>
-    <script src="https://cdn.mathjax.org/mathjax/latest/MathJax.js?config=TeX-AMS-MML_HTMLorMML" type="text/javascript"></script>
-    <script type="text/x-mathjax-config">
-        MathJax.Hub.Config({
-            tex2jax: {
-            skipTags: ['script', 'noscript', 'style', 'textarea', 'pre'],
-            inlineMath: [['$','$']]
-            }
-        });
-    </script>
-</head>
 ---
 layout:     post
 title:      "Graphics Encore(1)"
@@ -139,15 +128,15 @@ tags:
 
   Hermite: suppose we have $p_0$ and $p_3$, and the derivative value at $u=0$ and $u=1$, need to solve difference control point at $u=0$ and $u=1$
 
-  $M_H=\left[ \begin{matrix}   1 & 0 & 0 & 0 \\   0 & 0 & 1 & 0 \\   -3 & 3 & -2 & -1\\2&-2&1&1 \end{matrix}  \right]$
+  $M_H=\left[ \begin{matrix}   1 & 0 & 0 & 0\\   0 & 0 & 1 & 0\\   -3 & 3 & -2 & -1\\ 2 & -2 & 1 & 1 \end{matrix}  \right]$
 
   Bezier: use 4 pts again, but 2 of them control the derivative values at $u=0$ and $u=1$
 
-  $M_B=\left[ \begin{matrix}   1 & 0 & 0 & 0 \\   -3 & 3 & 0 & 0 \\   3 & -6 & 3 & 0\\-1&3&-3&1 \end{matrix}  \right]$
+  $M_B=\left[ \begin{matrix}   1 & 0 & 0 & 0\\   -3 & 3 & 0 & 0\\   3 & -6 & 3 & 0\\ -1 & 3 & -3 & 1 \end{matrix}  \right]$
 
   B-Splines: I can't understand
 
-  $M_S=\frac{1}{6}\left[ \begin{matrix}   1 & 4 & 1 & 0 \\   -3 & 0 & 3 & 0 \\   3 & -6 & 3 & 0\\-1&3&-3&1 \end{matrix}  \right]$
+  $M_S=\frac{1}{6}\left[ \begin{matrix}   1 & 4 & 1 & 0\\   -3 & 0 & 3 & 0\\   3 & -6 & 3 & 0\\ -1 & 3 & -3 & 1 \end{matrix}  \right]$
 
   
 
