@@ -4,7 +4,7 @@ title:      "Graphics Encore(2)"
 subtitle:   " \"Review for an Interview\""
 date:       2020-05-08
 author:     "Koala"
-header-img: "img/post-bg-unix-linux.jpg"
+header-img: "img/post-sample-image.jpg"
 catalog: true
 tags:
     - graphics
