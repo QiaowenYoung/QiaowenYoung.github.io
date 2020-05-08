@@ -7,8 +7,8 @@ author:     "Koala"
 header-img: "img/post-bg-unix-linux.jpg"
 catalog: true
 tags:
-​    - graphics
-​    - review
+    - graphics
+    - review
 ---
 
 > “Words, don't come easy to me”
