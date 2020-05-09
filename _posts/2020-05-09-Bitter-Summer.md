@@ -4,7 +4,7 @@ title:      "苹果"
 subtitle:   " \"Summer is but a bitter dream\""
 date:       2020-05-09
 author:     "Koala"
-header-img: "img/post-bitter-summer.jpg"
+header-img: "img/post-bg-2015.jpg"
 catalog: true
 tags:
     - poems
