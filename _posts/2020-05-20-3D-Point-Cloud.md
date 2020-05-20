@@ -14,7 +14,7 @@ tags:
 
 参考资料：
 
-* **[3D点云综述]( https://blog.csdn.net/john_bh/article/details/103804177) ** 
+* **[3D点云综述]( https://blog.csdn.net/john_bh/article/details/103804177)** 
 * **[深度学习在3D点云处理中的探索](https://www.bilibili.com/video/BV1et411F78Y?from=search&seid=9625151677970010889)**
 * **3D is here: Point Cloud Library (PCL)**
 
