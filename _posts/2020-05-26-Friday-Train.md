@@ -1,7 +1,7 @@
 ---
 layout:     post
 title:      "星期五火车"
-subtitle:   " \"Interview Prep\""
+subtitle:   " \"Train on Friday\""
 date:       2020-05-26
 author:     "Koala"
 header-img: "img/post-friday-train.jpg"
